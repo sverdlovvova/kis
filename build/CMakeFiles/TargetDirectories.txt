@@ -1,0 +1,3 @@
+/Users/sverdlovvova/kis/kis/build/CMakeFiles/Similarity.dir
+/Users/sverdlovvova/kis/kis/build/CMakeFiles/edit_cache.dir
+/Users/sverdlovvova/kis/kis/build/CMakeFiles/rebuild_cache.dir
